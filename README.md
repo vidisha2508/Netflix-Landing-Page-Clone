@@ -1,2 +1,11 @@
 # Netflix-Landing-Page-Clone
-Frontend clone of Netflix's landing page with basic responsive UI and interaction
+A responsive Netflix landing page clone 
+## Features
+-Responsive design
+-Hover animations
+-FAQ accordion section
+-Clean Netflix inspired UI
+## Tech Stack
+-HTML
+-CSS
+-JavaScript
